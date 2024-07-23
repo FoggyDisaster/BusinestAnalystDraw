@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T17:41:02.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZpJ5jVtIGdZ_TYpKTk9P" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T17:47:03.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dAmBYTINtAX9svHiAP8a" version="24.7.3" type="github">
   <diagram name="Страница — 1" id="iSsBPGG0f2yRafziYpQm">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,16 +26,16 @@
           <mxGeometry x="400" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PfJrxKivXBuoq65aWgN6-9" value="Загрузка межгород/город" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PfJrxKivXBuoq65aWgN6-10" value="Прием груза" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PfJrxKivXBuoq65aWgN6-11" value="Взвешивание" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PfJrxKivXBuoq65aWgN6-12" value="Выгрузка межгород/город" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PfJrxKivXBuoq65aWgN6-13" value="Палетирование?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="170" width="120" height="60" as="geometry" />
@@ -94,13 +94,13 @@
             <mxPoint x="720" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PfJrxKivXBuoq65aWgN6-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PfJrxKivXBuoq65aWgN6-12">
+        <mxCell id="PfJrxKivXBuoq65aWgN6-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PfJrxKivXBuoq65aWgN6-9" target="PfJrxKivXBuoq65aWgN6-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="950" y="130" as="sourcePoint" />
             <mxPoint x="1000" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PfJrxKivXBuoq65aWgN6-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PfJrxKivXBuoq65aWgN6-12" target="PfJrxKivXBuoq65aWgN6-10">
+        <mxCell id="PfJrxKivXBuoq65aWgN6-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PfJrxKivXBuoq65aWgN6-27" target="PfJrxKivXBuoq65aWgN6-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1100" y="230" as="sourcePoint" />
             <mxPoint x="1150" y="180" as="targetPoint" />
@@ -111,6 +111,15 @@
             <mxPoint x="800" y="170" as="sourcePoint" />
             <mxPoint x="820" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PfJrxKivXBuoq65aWgN6-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PfJrxKivXBuoq65aWgN6-12" target="PfJrxKivXBuoq65aWgN6-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="130" as="sourcePoint" />
+            <mxPoint x="1260" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PfJrxKivXBuoq65aWgN6-27" value="Сканирование РПМ 2016" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
