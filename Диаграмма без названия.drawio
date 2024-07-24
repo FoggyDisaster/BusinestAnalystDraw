@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T06:29:58.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cepS8nhg93RUyUNcaL_W" version="24.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-24T06:41:18.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JcchEytkSIUAiEHEAmSU" version="24.7.3" type="github" pages="2">
   <diagram name="Страница — 1" id="iSsBPGG0f2yRafziYpQm">
     <mxGraphModel dx="2387" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0EbZxDrNh32O3bjWXzVi" name="Страница — 2">
-    <mxGraphModel dx="1008" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,6 +264,44 @@
         </mxCell>
         <mxCell id="v2qxCZSfZdPtIH1DSBiw-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1 часть схемы&lt;/h1&gt;&lt;div&gt;Отправитель - Перевозчик. Прямой поток&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="490" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v2qxCZSfZdPtIH1DSBiw-46" target="v2qxCZSfZdPtIH1DSBiw-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-46" value="ИМ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v2qxCZSfZdPtIH1DSBiw-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-48" value="Площадка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-49" value="ББ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Груз может попасть 2-я способами:&lt;/h1&gt;&lt;div&gt;1. Силами отправителя. Т.е. ИМ/площадка доставляет отпр. груз в ББ своими силами. Т.е Площадка или ИМ может сдать отпр. груз на ПВЗ или на терминал ББ.&lt;/div&gt;&lt;div&gt;2. Силами ББ. Т.е. ИМ или площадка делают запрос в ББ на забор груза у них. ББ забирает своими силами груз от ИМ/площадки и доставляет его на терминал/ПВЗ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="455" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v2qxCZSfZdPtIH1DSBiw-52" target="v2qxCZSfZdPtIH1DSBiw-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-52" value="ФЛ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-53" value="ББ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Груз может попасть 2-я способами:&lt;/h1&gt;&lt;div&gt;1. Силами отправителя. Т.е. ФЛ доставляет отпр. груз в ББ своими силами. Т.е ФЛ может сдать отпр. груз на ПВЗ .&lt;/div&gt;&lt;div&gt;2. Силами ББ. Т.е. ФЛ делают запрос в ББ на забор груза у них. ББ забирает своими силами груз от ФЛ и доставляет его на терминал/ПВЗ (Курьерский забор)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="460" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-57" value="ПВЗ&lt;div&gt;Терминал&lt;/div&gt;&lt;div&gt;КД (курьерская доставка)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="691" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v2qxCZSfZdPtIH1DSBiw-58" value="ПВЗ&lt;div&gt;Терминал&lt;/div&gt;&lt;div&gt;ВГЛ (внутри-городская логистика)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="680" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
