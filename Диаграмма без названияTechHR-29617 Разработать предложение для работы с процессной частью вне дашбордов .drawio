@@ -261,7 +261,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SLK90EHlQUg7bv-uroZE-210" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="1650" width="1310" x="3260" y="-840" as="geometry">
+          <mxGeometry height="1980" width="1310" x="3260" y="-840" as="geometry">
             <mxRectangle height="40" width="50" x="701" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
