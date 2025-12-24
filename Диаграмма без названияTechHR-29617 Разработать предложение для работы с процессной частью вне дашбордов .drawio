@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Страница-1" id="6q4paZ4m71F1mnWIkZo5">
-    <mxGraphModel dx="9354" dy="5365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7215" dy="4250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,24 +168,24 @@
           <mxGeometry height="77" width="540" x="282" y="414.5" as="geometry" />
         </mxCell>
         <mxCell id="fj3IW2fFfU4shk9F4CrI-16" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="906" width="1080" x="-240" y="-2580" as="geometry">
+          <mxGeometry height="906" width="1080" x="-230" y="-2570" as="geometry">
             <mxRectangle height="40" width="50" x="701" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fj3IW2fFfU4shk9F4CrI-17" parent="fj3IW2fFfU4shk9F4CrI-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;Главная (Е2 - специалист)&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="770" x="155" y="28" as="geometry" />
         </mxCell>
-        <mxCell id="fj3IW2fFfU4shk9F4CrI-18" parent="fj3IW2fFfU4shk9F4CrI-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" value="&lt;span style=&quot;font-size: 43px;&quot;&gt;Дашборды&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="373" x="70" y="182" as="geometry" />
+        <mxCell id="fj3IW2fFfU4shk9F4CrI-18" parent="fj3IW2fFfU4shk9F4CrI-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" value="&lt;span style=&quot;font-size: 43px;&quot;&gt;Доступные дашборды&lt;/span&gt;" vertex="1">
+          <mxGeometry height="88" width="410" x="70" y="182" as="geometry" />
         </mxCell>
-        <mxCell id="fj3IW2fFfU4shk9F4CrI-19" parent="fj3IW2fFfU4shk9F4CrI-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Распоряжения&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="380" x="70" y="310" as="geometry" />
+        <mxCell id="fj3IW2fFfU4shk9F4CrI-19" parent="fj3IW2fFfU4shk9F4CrI-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Генератор Распоряжений?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="410" x="70" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="fj3IW2fFfU4shk9F4CrI-21" parent="fj3IW2fFfU4shk9F4CrI-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Конвертатор&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="380" x="70" y="460" as="geometry" />
+        <mxCell id="fj3IW2fFfU4shk9F4CrI-21" parent="fj3IW2fFfU4shk9F4CrI-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Конвертатор из ppix в excel?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="410" x="70" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="fj3IW2fFfU4shk9F4CrI-22" parent="fj3IW2fFfU4shk9F4CrI-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Источник&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="380" x="70" y="610" as="geometry" />
+        <mxCell id="fj3IW2fFfU4shk9F4CrI-22" parent="fj3IW2fFfU4shk9F4CrI-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #ededed);" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Просмотр источников?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="420" x="70" y="610" as="geometry" />
         </mxCell>
         <mxCell id="fj3IW2fFfU4shk9F4CrI-23" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="906" width="1080" x="970" y="-2580" as="geometry">
