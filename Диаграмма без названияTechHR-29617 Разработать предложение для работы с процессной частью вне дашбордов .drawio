@@ -194,6 +194,9 @@
         <mxCell id="SLK90EHlQUg7bv-uroZE-20" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;position2=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Предусмотреть разное наполнение функционала главного экрана для ролей&lt;/font&gt;" vertex="1">
           <mxGeometry height="212" width="400" x="540" y="-2740" as="geometry" />
         </mxCell>
+        <mxCell id="SLK90EHlQUg7bv-uroZE-29" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;position2=0.73;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Обновлять дашборд мы можем не чаще 1 р в сутки, поэтому может на этом сервисе сделать предварительный просмотр панели планирования из PowerBI недавно внесенных изменений?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="202" width="330" x="2100" y="-2772" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
