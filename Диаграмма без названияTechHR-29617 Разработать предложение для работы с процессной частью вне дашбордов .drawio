@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Страница-1" id="6q4paZ4m71F1mnWIkZo5">
     <mxGraphModel dx="11493" dy="17000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -481,7 +481,7 @@
           <mxGeometry height="212" width="300" x="-20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="w-nSqDTpw2ACiHnhRm33-31" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="12890" width="21470" x="4020" y="-12730" as="geometry">
+          <mxGeometry height="12890" width="21470" x="4030" y="-12690" as="geometry">
             <mxRectangle height="40" width="50" x="701" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -526,6 +526,9 @@
             <mxPoint x="19270" y="3590" as="sourcePoint" />
             <mxPoint x="19320" y="3540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UDPZwvMbuV63OQZNZnZ_-1" parent="w-nSqDTpw2ACiHnhRm33-31" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#cfcfcf, #ededed);gradientColor=none;" value="&lt;span style=&quot;font-size: 43px;&quot;&gt;Скачать таблицу&lt;/span&gt;" vertex="1">
+          <mxGeometry height="240" width="300" x="3690" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="w-nSqDTpw2ACiHnhRm33-39" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="1090" width="2090" x="-1620" y="-12030" as="geometry" />
