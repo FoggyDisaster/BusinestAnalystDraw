@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Страница-1" id="6q4paZ4m71F1mnWIkZo5">
-    <mxGraphModel dx="9354" dy="20562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7826" dy="19765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -479,6 +479,9 @@
         </mxCell>
         <mxCell id="w-nSqDTpw2ACiHnhRm33-30" parent="w-nSqDTpw2ACiHnhRm33-24" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;position2=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Список программ по обязательному обучению с возможностью добавления новых (периодическое обучение, требования органов надзора, наставничество и тд)&lt;/span&gt;" vertex="1">
           <mxGeometry height="212" width="300" x="-20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-2_OH8Aags-szQnGOtvN-67" parent="w-nSqDTpw2ACiHnhRm33-24" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;position2=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Переход на карту статусов&lt;/span&gt;" vertex="1">
+          <mxGeometry height="122" width="190" x="720" y="90" as="geometry" />
         </mxCell>
         <mxCell id="w-nSqDTpw2ACiHnhRm33-31" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="14630" width="22661.39" x="8370" y="-18440" as="geometry">
