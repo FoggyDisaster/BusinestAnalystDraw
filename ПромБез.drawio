@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="8ap1NU3qVZZRE8EcCf5z">
-    <mxGraphModel dx="5903" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6963" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,6 +55,9 @@
         <mxCell id="RIRhulhHAlF5B4grZ4R7-119" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RIRhulhHAlF5B4grZ4R7-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-133" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RIRhulhHAlF5B4grZ4R7-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Запланировать обучение и аттестацию" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="570" as="geometry" />
         </mxCell>
@@ -89,7 +92,7 @@
           <mxGeometry height="279" width="450" y="81" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;fontColor=light-dark(#ff0000, #ededed);" value="Табельный номер (далее ТН) принимается в данной диаграмме как уникальная запись сотрудника" vertex="1">
-          <mxGeometry height="30" width="2070" x="-2610" y="600" as="geometry" />
+          <mxGeometry height="30" width="2070" x="-2620" y="530" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-47" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="455" width="450" x="-440" y="737.5" as="geometry" />
