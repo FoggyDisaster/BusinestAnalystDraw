@@ -5,7 +5,43 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jJSM_ssbbERvPUqfUZXz-1" parent="1" style="text;whiteSpace=wrap;" value="1.  Зафиксировать процесс целиком (AS-IS / TO-BE):&#xa;    - Полный поток действий: что делает пользователь на каждом шаге.&#xa;    - Что происходит с данными.&#xa;    - Логическая непротиворечивоссть.&#xa;2.  Определить жизненный цикл записи:&#xa;    - Какие есть состояния (запланирован, зарегистрирован, отправлен, аттестован и т.д.).&#xa;    - Как система понимает, в каком состоянии находится запись.&#xa;3.  Проработать сценарии (включая крайние случаи):&#xa;    - Повторная регистрация / повторная отправка.&#xa;    - Изменение даты.&#xa;    - Дублирование записей.&#xa;    - Определение «актуальной» записи.&#xa;    - Здесь заказчики могут подробно рассказать, с какими проблемными кейсами они сталкивались.&#xa;4.  Зафиксировать правила обработки:&#xa;    - Что считается новой записью, а что – обновлением и.тд характеристик много.&#xa;    - Как система реагирует на повторные действия. (тут опять приненительно к каждому сценарию)" vertex="1">
-          <mxGeometry height="280" width="560" x="-340" y="60" as="geometry" />
+          <mxGeometry height="280" width="560" x="-340" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-3" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Промышленная безопасность" vertex="1">
+          <mxGeometry height="60" width="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-5" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-6" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-8" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-10" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-12" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Дашборд" vertex="1">
+          <mxGeometry height="60" width="120" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Запланировать обучение и аттестацию" vertex="1">
+          <mxGeometry height="60" width="120" x="-190" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Внести данные по обучению и аттестации" vertex="1">
+          <mxGeometry height="60" width="120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Назначить повторную аттестацию" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Дашборд" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
