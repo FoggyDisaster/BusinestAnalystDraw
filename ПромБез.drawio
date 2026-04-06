@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="8ap1NU3qVZZRE8EcCf5z">
-    <mxGraphModel dx="4722" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5879" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,13 +77,13 @@
           <mxGeometry height="60" width="120" x="570" y="680" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Обучение и аттестация завершены" vertex="1">
-          <mxGeometry height="60" width="120" x="-560" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-1160" y="760" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется повторная аттестация" vertex="1">
-          <mxGeometry height="60" width="120" x="-380" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-660" y="760" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-31" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="400" width="475" x="-2580" y="790" as="geometry" />
+          <mxGeometry height="400" width="475" x="-3270" y="774" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-15" parent="RIRhulhHAlF5B4grZ4R7-31" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется обучение" vertex="1">
           <mxGeometry height="60" width="120" x="140" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry height="280" width="475" y="120" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-38" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="455" width="450" x="-980" y="780" as="geometry" />
+          <mxGeometry height="455" width="450" x="-1710" y="774" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-28" parent="RIRhulhHAlF5B4grZ4R7-38" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется внести результаты" vertex="1">
           <mxGeometry height="60" width="120" x="90" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry height="279" width="450" y="81" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-40" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="410" width="470" x="-2050" y="780" as="geometry" />
+          <mxGeometry height="410" width="470" x="-2780" y="774" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-37" connectable="0" parent="RIRhulhHAlF5B4grZ4R7-40" style="group" value="" vertex="1">
           <mxGeometry height="410" width="430" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry height="189" width="429.99999999999994" x="40" y="210" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-41" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="455" width="450" x="-1500" y="780" as="geometry" />
+          <mxGeometry height="455" width="450" x="-2230" y="769" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-42" parent="RIRhulhHAlF5B4grZ4R7-41" style="whiteSpace=wrap;html=1;rounded=1;" value="Необходимо зарегистрировать на ЕПТ" vertex="1">
           <mxGeometry height="60" width="120" x="90" as="geometry" />
