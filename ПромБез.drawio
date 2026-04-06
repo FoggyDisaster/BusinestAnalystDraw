@@ -170,6 +170,9 @@
         <mxCell id="RIRhulhHAlF5B4grZ4R7-59" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Список записей обработан" vertex="1">
           <mxGeometry height="60" width="120" x="-2127" y="1390" as="geometry" />
         </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-60" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Список записей обработан" vertex="1">
+          <mxGeometry height="60" width="120" x="-1610" y="1390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
