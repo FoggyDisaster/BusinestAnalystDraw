@@ -74,19 +74,19 @@
           <mxGeometry height="60" width="120" x="570" y="680" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется обучение" vertex="1">
-          <mxGeometry height="60" width="120" x="-940" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-1150" y="790" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Обучение и аттестация запланированы" vertex="1">
-          <mxGeometry height="60" width="120" x="-780" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-947" y="790" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Обучение и аттестация завершены" vertex="1">
-          <mxGeometry height="60" width="120" x="-450" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-560" y="790" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется повторная аттестация" vertex="1">
-          <mxGeometry height="60" width="120" x="-290" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-380" y="790" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется внести результаты" vertex="1">
-          <mxGeometry height="60" width="120" x="-610" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-750" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
