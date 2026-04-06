@@ -11,18 +11,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Промышленная безопасность" vertex="1">
-          <mxGeometry height="60" width="120" x="1540" y="380" as="geometry" />
+          <mxGeometry height="60" width="120" x="860" y="280" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-5" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-6" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-4" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RIRhulhHAlF5B4grZ4R7-8" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-7" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RIRhulhHAlF5B4grZ4R7-10" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-12" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-11" value="">
@@ -32,15 +26,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Дашборд" vertex="1">
-          <mxGeometry height="60" width="120" x="1540" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="860" y="420" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-16" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-20" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-19" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RIRhulhHAlF5B4grZ4R7-23" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-24" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-19" value="">
@@ -65,19 +56,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Запланировать обучение и аттестацию" vertex="1">
-          <mxGeometry height="60" width="120" x="1540" y="670" as="geometry" />
-        </mxCell>
-        <mxCell id="RIRhulhHAlF5B4grZ4R7-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Внести данные по обучению и аттестации" vertex="1">
-          <mxGeometry height="60" width="120" x="1730" y="670" as="geometry" />
-        </mxCell>
-        <mxCell id="RIRhulhHAlF5B4grZ4R7-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Назначить повторную аттестацию" vertex="1">
-          <mxGeometry height="60" width="120" x="1920" y="670" as="geometry" />
+          <mxGeometry height="60" width="120" x="860" y="570" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Отменить обучение и аттестацию" vertex="1">
-          <mxGeometry height="60" width="120" x="2110" y="670" as="geometry" />
+          <mxGeometry height="60" width="120" x="1080" y="570" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Просмотреть отчетность" vertex="1">
-          <mxGeometry height="60" width="120" x="2300" y="670" as="geometry" />
+          <mxGeometry height="60" width="120" x="1300" y="570" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-38" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="455" width="450" x="-1820" y="760" as="geometry" />
@@ -107,7 +92,7 @@
           <mxGeometry height="30" width="2070" x="-2610" y="600" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-47" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="455" width="450" x="200" y="762.5" as="geometry" />
+          <mxGeometry height="455" width="450" x="-440" y="737.5" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-49" connectable="0" parent="RIRhulhHAlF5B4grZ4R7-47" style="group" value="" vertex="1">
           <mxGeometry height="360" width="450" y="95" as="geometry" />
@@ -131,7 +116,7 @@
           <mxGeometry height="60" width="120" x="-1580" y="1295" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-62" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="455" width="450" x="810" y="750" as="geometry" />
+          <mxGeometry height="455" width="450" x="115" y="740" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-63" connectable="0" parent="RIRhulhHAlF5B4grZ4R7-62" style="group" value="" vertex="1">
           <mxGeometry height="360" width="450" y="95" as="geometry" />
@@ -264,7 +249,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-107" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Проверка записей" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="1330" as="geometry" />
+          <mxGeometry height="60" width="120" x="-330" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-108" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="235" width="120" x="-1410" y="1295" as="geometry" />
@@ -278,9 +263,9 @@
         <mxCell id="RIRhulhHAlF5B4grZ4R7-110" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="RIRhulhHAlF5B4grZ4R7-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="750" y="1265" />
-              <mxPoint x="750" y="789" />
-              <mxPoint x="880" y="789" />
+              <mxPoint x="55" y="1255" />
+              <mxPoint x="55" y="779" />
+              <mxPoint x="185" y="779" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -298,24 +283,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-109" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" value="Обнаружен&amp;nbsp; ли неудовлетворительный результат" vertex="1">
-          <mxGeometry height="190" width="190" x="650" y="1265" as="geometry" />
+          <mxGeometry height="190" width="190" x="-45" y="1255" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-118" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="RIRhulhHAlF5B4grZ4R7-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-112" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Смена статуса ТН" vertex="1">
-          <mxGeometry height="60" width="120" x="960" y="1440" as="geometry" />
+          <mxGeometry height="60" width="120" x="265" y="1430" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-113" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Статус ТН &quot;Обработан&quot;" vertex="1">
-          <mxGeometry height="60" width="120" x="1360" y="754" as="geometry" />
+          <mxGeometry height="60" width="120" x="665" y="744" as="geometry" />
         </mxCell>
-        <mxCell id="RIRhulhHAlF5B4grZ4R7-114" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;">
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-114" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RIRhulhHAlF5B4grZ4R7-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1290" y="789" />
-              <mxPoint x="1290" y="1770" />
-              <mxPoint x="-2670" y="1770" />
-              <mxPoint x="-2670" y="814" />
+              <mxPoint x="630" y="789" />
+              <mxPoint x="630" y="1770" />
+              <mxPoint x="-4020" y="1770" />
+              <mxPoint x="-4020" y="814" />
             </Array>
             <mxPoint x="-2640" y="814" as="targetPoint" />
           </mxGeometry>
@@ -338,8 +323,23 @@
         <mxCell id="RIRhulhHAlF5B4grZ4R7-127" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Организатор обучения" vertex="1">
           <mxGeometry height="60" width="30" x="-1010" y="1280" as="geometry" />
         </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-132" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RIRhulhHAlF5B4grZ4R7-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-128" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Отправить письма-приглашения на почту сотрудникам" vertex="1">
           <mxGeometry height="60" width="130" x="-880" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-131" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RIRhulhHAlF5B4grZ4R7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-520" y="1310" />
+              <mxPoint x="-520" y="780" />
+              <mxPoint x="-390" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-130" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Смена статуса ТН" vertex="1">
+          <mxGeometry height="60" width="130" x="-670" y="1280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
