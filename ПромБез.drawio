@@ -28,8 +28,32 @@
         <mxCell id="RIRhulhHAlF5B4grZ4R7-12" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-14" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Дашборд" vertex="1">
           <mxGeometry height="60" width="120" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-16" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-18" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-20" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-23" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-24" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-25" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-27" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="RIRhulhHAlF5B4grZ4R7-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Запланировать обучение и аттестацию" vertex="1">
           <mxGeometry height="60" width="120" x="-190" y="680" as="geometry" />
@@ -40,8 +64,23 @@
         <mxCell id="RIRhulhHAlF5B4grZ4R7-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Назначить повторную аттестацию" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="RIRhulhHAlF5B4grZ4R7-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Дашборд" vertex="1">
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Отменить обучение и аттестацию" vertex="1">
           <mxGeometry height="60" width="120" x="380" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Просмотреть отчетность" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется обучение" vertex="1">
+          <mxGeometry height="60" width="120" x="-770" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Обучение и аттестация запланированы" vertex="1">
+          <mxGeometry height="60" width="120" x="-610" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Обучение и аттестация завершены" vertex="1">
+          <mxGeometry height="60" width="120" x="-450" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется повторная аттестация" vertex="1">
+          <mxGeometry height="60" width="120" x="-290" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
