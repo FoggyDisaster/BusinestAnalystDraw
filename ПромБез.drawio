@@ -88,6 +88,9 @@
         <mxCell id="RIRhulhHAlF5B4grZ4R7-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется внести результаты" vertex="1">
           <mxGeometry height="60" width="120" x="-750" y="790" as="geometry" />
         </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Требования:&lt;br&gt;&lt;br&gt;&lt;div&gt;Ограничения:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-1170" y="900" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
