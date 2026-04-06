@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="8ap1NU3qVZZRE8EcCf5z">
-    <mxGraphModel dx="2480" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3307" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,6 +55,9 @@
         <mxCell id="RIRhulhHAlF5B4grZ4R7-27" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="RIRhulhHAlF5B4grZ4R7-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-29" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RIRhulhHAlF5B4grZ4R7-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Запланировать обучение и аттестацию" vertex="1">
           <mxGeometry height="60" width="120" x="-190" y="680" as="geometry" />
         </mxCell>
@@ -71,16 +74,19 @@
           <mxGeometry height="60" width="120" x="570" y="680" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется обучение" vertex="1">
-          <mxGeometry height="60" width="120" x="-770" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-940" y="790" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Обучение и аттестация запланированы" vertex="1">
-          <mxGeometry height="60" width="120" x="-610" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="-780" y="790" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Обучение и аттестация завершены" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="790" as="geometry" />
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется повторная аттестация" vertex="1">
           <mxGeometry height="60" width="120" x="-290" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="RIRhulhHAlF5B4grZ4R7-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Требуется внести результаты" vertex="1">
+          <mxGeometry height="60" width="120" x="-610" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
