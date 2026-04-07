@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="Страница-1" id="8ap1NU3qVZZRE8EcCf5z">
-    <mxGraphModel dx="6847" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,6 +343,348 @@
         </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-130" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Смена статуса ТН" vertex="1">
           <mxGeometry height="60" width="130" x="-670" y="1280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Y_M3OzXxl1SVEH_0xyA-" name="Страница-2">
+    <mxGraphModel dx="2828" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-97" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Промышленная безопасность" vertex="1">
+          <mxGeometry height="60" width="120" x="5310" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-2" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-3" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-98" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Дашборд" vertex="1">
+          <mxGeometry height="60" width="120" x="5310" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-5" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-6" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-7" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-8" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-9" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-WssIlFQG6i6GCGSxKV0-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-10" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-11" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-12" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-13" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-14" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Запланировать обучение и аттестацию" vertex="1">
+          <mxGeometry height="60" width="120" x="5310" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Отменить обучение и аттестацию" vertex="1">
+          <mxGeometry height="60" width="120" x="5530" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Просмотреть отчетность" vertex="1">
+          <mxGeometry height="60" width="120" x="5750" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-18" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="455" width="450" x="2630" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-19" parent="-WssIlFQG6i6GCGSxKV0-18" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Статус ТН &quot;Требуется внести результаты&quot;" vertex="1">
+          <mxGeometry height="70" width="180" x="90" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-20" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-18" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="450" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-21" parent="-WssIlFQG6i6GCGSxKV0-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Требования:&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Фильтрация записей по параметрам:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН]&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ [&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)]&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;= Заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ограничения:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;В данную подборку не должны попасть записи, где:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН] +&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)] +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Номер протокола] + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Дата протокола]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Область аттестации]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;+ [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Результат]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; = Заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="279" width="450" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-22" connectable="0" parent="1" style="group;fontSize=13;" value="" vertex="1">
+          <mxGeometry height="455" width="450" x="1790" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-23" parent="-WssIlFQG6i6GCGSxKV0-22" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Статус ТН &quot;Необходимо зарегистрировать на ЕПТ&quot;" vertex="1">
+          <mxGeometry height="80" width="170" x="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-24" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-22" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="450" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-25" parent="-WssIlFQG6i6GCGSxKV0-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Требования:&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Фильтрация записей по параметрам:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН]&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ [&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)]&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;= Заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ограничения:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;В данную подборку не должны попасть записи, где:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН] +&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)] +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Номер протокола] + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Дата протокола]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Область аттестации]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;+ [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Результат]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; = Заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="279" width="450" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;fontColor=light-dark(#ff0000, #ededed);" value="Табельный номер (далее ТН) принимается в данной диаграмме как уникальная запись сотрудника" vertex="1">
+          <mxGeometry height="30" width="2070" x="1830" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-27" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="455" width="450" x="4010" y="1027.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-28" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-27" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="450" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-29" parent="-WssIlFQG6i6GCGSxKV0-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Требования:&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Фильтрация записей по параметрам:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН]&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ [&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)]&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;Номер протокола] + [&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;Дата протокола]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&amp;nbsp; + [&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;Область аттестации]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&amp;nbsp;+ [&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;Результат]&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;= Заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ограничения:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;В данную подборку не должны попасть записи, где:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН] +&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)] +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Номер протокола] + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Дата протокола]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Область аттестации]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;+ [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Результат]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; = Не заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="279" width="450" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-30" parent="-WssIlFQG6i6GCGSxKV0-27" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Статус ТН &quot;Обучение и аттестация завершены&quot;" vertex="1">
+          <mxGeometry height="70" width="160" x="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-31" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-32" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Список записей обработан" vertex="1">
+          <mxGeometry height="70" width="187" x="2140" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-33" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-34" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Загрузить файл в папку дашборда" vertex="1">
+          <mxGeometry height="60" width="120" x="2870" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-35" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="455" width="450" x="4565" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-36" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-35" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="450" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-37" parent="-WssIlFQG6i6GCGSxKV0-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Требования:&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Фильтрация записей по параметрам:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН]&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; background-color: transparent;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; background-color: transparent;&quot;&gt;Результат]&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;= &quot;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Не сдан&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&quot;/ &quot;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Не явка&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&quot;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ограничения:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;В данную подборку не должны попасть записи, где:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН]&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;+&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; background-color: transparent;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; background-color: transparent;&quot;&gt;Результат]&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;= Пусто / &quot;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18.6667px;&quot;&gt;&lt;font face=&quot;Calibri, sans-serif&quot;&gt;Сдан&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="279" width="450" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-38" parent="-WssIlFQG6i6GCGSxKV0-35" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Требуется повторная аттестация" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="8.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-39" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-40" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;" target="-WssIlFQG6i6GCGSxKV0-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-41" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="526" width="650" x="280" y="1064" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-42" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-41" style="group" value="" vertex="1">
+          <mxGeometry height="500" width="650" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-43" parent="-WssIlFQG6i6GCGSxKV0-42" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Система составляет список записей" vertex="1">
+          <mxGeometry height="80" width="150" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-44" parent="-WssIlFQG6i6GCGSxKV0-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Требования:&lt;br&gt;Фильтрация записей по параметрам:&lt;br&gt;- [ТН] + [&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;Есть на КПС, нет на КПД] = *Сравнение параметров* =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;значение есть в&amp;nbsp; «Квалификация сотр.», но значения нет в «Квалификация должности».&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;&lt;br&gt;&lt;/span&gt;- [ТН] + [&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;Квалификация не соответствует] = [&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Соответствие = &quot;&lt;span style=&quot;font-size: 14pt; line-height: 107%;&quot;&gt;Не соответствует&lt;/span&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;]&lt;br&gt;&lt;/span&gt;- [ТН] + [&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;Квалификация &lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;&lt;font style=&quot;&quot;&gt;ско&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;ро истечет] = &lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 18.6667px;&quot;&gt;значение&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;КПС&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;]+60 дней от даты истечения квалификации КПС&lt;br&gt;-&amp;nbsp;&lt;/span&gt;[ТН] + [Результат&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;] =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: Calibri, sans-serif; font-size: 14pt;&quot;&gt;Не сдан&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&quot;/ &quot;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: Calibri, sans-serif; font-size: 14pt;&quot;&gt;Не явка&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ограничения:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;В данную подборку не должны попасть записи, где:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;- ТН + [&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Номер протокола] + [&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Дата протокола]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; + [&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Область аттестации]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;+ [&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Результат]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; = Заполнено.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;-&amp;nbsp;&lt;/span&gt;[ТН] + [Результат&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;] =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;Пусто / &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18.6667px;&quot;&gt;&lt;font face=&quot;Calibri, sans-serif&quot;&gt;Сдан&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="354" width="510" x="140" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-45" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="410" width="469.99999999999994" x="1100" y="1072.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-46" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-45" style="group" value="" vertex="1">
+          <mxGeometry height="410" width="430" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-47" parent="-WssIlFQG6i6GCGSxKV0-46" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Статус ТН &quot;Требуется запланировать&lt;div&gt;Обучение и аттестацию&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="90" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-48" parent="-WssIlFQG6i6GCGSxKV0-45" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Требования:&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Фильтрация записей по параметрам:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН]&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ [&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)]&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;= Не заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ограничения:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;В данную подборку не должны попасть записи, где:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН] +&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)] +&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;[&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Номер протокола] + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Дата протокола]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Область аттестации]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;+ [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Результат]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; = Заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="189" width="429.99999999999994" x="40" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-49" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Организатор обучения" vertex="1">
+          <mxGeometry height="60" width="30" x="940" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-50" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Заполнить данные" vertex="1">
+          <mxGeometry height="40" width="102.5" x="1048" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-51" connectable="0" parent="1" style="group;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="384" width="245" x="1188" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-52" parent="-WssIlFQG6i6GCGSxKV0-51" style="whiteSpace=wrap;html=1;rounded=1;" value="У записей, отобранных на первом шаге, заполнены значения в полях" vertex="1">
+          <mxGeometry height="80" width="150" x="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-53" parent="-WssIlFQG6i6GCGSxKV0-51" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;red&amp;quot;}&quot; style=&quot;forced-color-adjust: none; color: light-dark(red, rgb(255, 144, 144));&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;red&amp;quot;}&quot; style=&quot;forced-color-adjust: none; color: light-dark(red, rgb(255, 144, 144));&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)]&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="290" width="245" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-54" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-55" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Организатор обучения" vertex="1">
+          <mxGeometry height="60" width="30" x="1760" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-56" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-57" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Выгрузить данный список" vertex="1">
+          <mxGeometry height="40" width="110" x="1830" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-58" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-59" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Зарегистрировать список на портале ЕПТ" vertex="1">
+          <mxGeometry height="50" width="130" x="1969" y="1595" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-60" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2530" y="1620" />
+              <mxPoint x="2530" y="1090" />
+              <mxPoint x="2720" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-61" parent="1" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" value="Смена статуса ТН" vertex="1">
+          <mxGeometry height="60" width="120" x="2380" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-62" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="1660" />
+              <mxPoint x="1660" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-63" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Смена статуса ТН" vertex="1">
+          <mxGeometry height="60" width="120" x="1460" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-64" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-65" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-66" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-67" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Организатор обучения" vertex="1">
+          <mxGeometry height="60" width="30" x="2570" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-68" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-69" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Выгрузить результаты аттестации с ЕПТ" vertex="1">
+          <mxGeometry height="60" width="130" x="2680" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-70" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-WssIlFQG6i6GCGSxKV0-72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-71" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3370" y="1615" />
+              <mxPoint x="3370" y="1069" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-72" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Смена статуса ТН" vertex="1">
+          <mxGeometry height="60" width="120" x="3200" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-73" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-74" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Проверка записей" vertex="1">
+          <mxGeometry height="60" width="120" x="4120" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-75" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="235" width="120" x="3040" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-76" parent="-WssIlFQG6i6GCGSxKV0-75" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Обновление значений" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-77" parent="-WssIlFQG6i6GCGSxKV0-75" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;Номер протокола] + [&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;Дата протокола]&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;&amp;nbsp; + [&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;Область аттестации]&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;&amp;nbsp;+ [&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 18px;&quot;&gt;Результат]&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="120" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-78" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="-WssIlFQG6i6GCGSxKV0-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4505" y="1545" />
+              <mxPoint x="4505" y="1069" />
+              <mxPoint x="4635" y="1069" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-79" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-78" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;ДА&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4141" y="2" as="geometry">
+            <mxPoint x="-3" y="126" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-80" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-WssIlFQG6i6GCGSxKV0-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-81" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;НЕТ&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1143" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-82" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" value="Обнаружен&amp;nbsp; ли неудовлетворительный результат" vertex="1">
+          <mxGeometry height="190" width="190" x="4405" y="1545" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-83" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-84" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Смена статуса ТН" vertex="1">
+          <mxGeometry height="60" width="120" x="4715" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-85" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Статус ТН &quot;Обработан&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="5115" y="1034" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-86" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5080" y="1079" />
+              <mxPoint x="5080" y="2060" />
+              <mxPoint x="370" y="2060" />
+              <mxPoint x="370" y="1104" />
+            </Array>
+            <mxPoint x="1810" y="1104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-87" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="455" width="450" x="3430" y="1027.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-88" parent="-WssIlFQG6i6GCGSxKV0-87" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Статус ТН &quot;Требуется разослать приглашения в Outlook&quot;" vertex="1">
+          <mxGeometry height="70" width="180" x="90" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-89" connectable="0" parent="-WssIlFQG6i6GCGSxKV0-87" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="450" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-90" parent="-WssIlFQG6i6GCGSxKV0-89" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Требования:&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Фильтрация записей по параметрам:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН]&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ [&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)]&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;= Заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ограничения:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;В данную подборку не должны попасть записи, где:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[ТН] +&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;Период обучения (теория)]+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 19.26px; font-family: Calibri, sans-serif;&quot;&gt;&amp;nbsp;[ФИО внутреннего преподавателя] + [таб. № внутреннего преподавателя], [Категория внутреннего преподавателя] + [Наименование подрядчика] + [ИНН подрядчика] + [&lt;span style=&quot;color: red;&quot;&gt;Дата аттестации] +&amp;nbsp;&lt;/span&gt;[&lt;span style=&quot;color: red;&quot;&gt;Время Аттестации] +&amp;nbsp;&lt;/span&gt;[Место проведения аттестации (город, адрес, аудитория и т.д.)] +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Номер протокола] + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Дата протокола]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; + [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Область аттестации]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;+ [&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Результат]&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; = Заполнено.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="279" width="450" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-91" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-92" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Организатор обучения" vertex="1">
+          <mxGeometry height="60" width="30" x="3440" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-93" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-94" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Отправить письма-приглашения на почту сотрудникам" vertex="1">
+          <mxGeometry height="60" width="130" x="3570" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-95" edge="1" parent="1" source="-WssIlFQG6i6GCGSxKV0-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WssIlFQG6i6GCGSxKV0-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3930" y="1600" />
+              <mxPoint x="3930" y="1070" />
+              <mxPoint x="4060" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WssIlFQG6i6GCGSxKV0-96" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" value="Смена статуса ТН" vertex="1">
+          <mxGeometry height="60" width="130" x="3780" y="1570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
