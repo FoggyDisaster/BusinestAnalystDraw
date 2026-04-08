@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Страница-1" id="8ap1NU3qVZZRE8EcCf5z">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10618" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jJSM_ssbbERvPUqfUZXz-1" parent="1" style="text;whiteSpace=wrap;" value="1.  Зафиксировать процесс целиком (AS-IS / TO-BE):&#xa;    - Полный поток действий: что делает пользователь на каждом шаге.&#xa;    - Что происходит с данными.&#xa;    - Логическая непротиворечивоссть.&#xa;2.  Определить жизненный цикл записи:&#xa;    - Какие есть состояния (запланирован, зарегистрирован, отправлен, аттестован и т.д.).&#xa;    - Как система понимает, в каком состоянии находится запись.&#xa;3.  Проработать сценарии (включая крайние случаи):&#xa;    - Повторная регистрация / повторная отправка.&#xa;    - Изменение даты.&#xa;    - Дублирование записей.&#xa;    - Определение «актуальной» записи.&#xa;    - Здесь заказчики могут подробно рассказать, с какими проблемными кейсами они сталкивались.&#xa;4.  Зафиксировать правила обработки:&#xa;    - Что считается новой записью, а что – обновлением и.тд характеристик много.&#xa;    - Как система реагирует на повторные действия. (тут опять приненительно к каждому сценарию)&#xa;&#xa;Как взять в работу по организации людей ВНЕ условий для автоматического отбора?" vertex="1">
-          <mxGeometry height="440" width="730" x="-340" y="40" as="geometry" />
-        </mxCell>
         <mxCell id="RIRhulhHAlF5B4grZ4R7-3" edge="1" parent="1" source="RIRhulhHAlF5B4grZ4R7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RIRhulhHAlF5B4grZ4R7-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -348,7 +345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y_M3OzXxl1SVEH_0xyA-" name="Страница-2">
-    <mxGraphModel dx="2828" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9427" dy="4953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
